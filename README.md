@@ -46,7 +46,7 @@ Test:
         and results of other digits, is similar above
 
 		
-# terminal command to this components:
+# terminal command to run this components:
 
 
 python connectivity.py broker_ip min_hash max_hash mongodb_ip
